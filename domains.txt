@@ -1,0 +1,2 @@
+*.nick85.eu
+*.der-daughterman.de
