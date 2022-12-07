@@ -1,2 +1,2 @@
-*.nick85.eu
-*.der-daughterman.de
+@@||nick85.eu^
+@@||der-daughterman.de^
